@@ -38,10 +38,11 @@ def executa(usermail, codigo, lista_parametros):
 
     if codigo==10:
         # função sem parâmetro
-        func="O site do evento é ***http://partnerforum.cisco.com.br***  \n"
+        func="Confira a programação completa: https://www.cisco.com/c/pt_br/training-events/connect.html \n"
+
         
     elif codigo==20:
-        func="Os contatos da Ingrm Micro: ***fulano@ingrammicro.com***, telefone: ***11 4000-4000***  \n"
+        func="Para acessar as sessões de Breakout do dia 2: https://collabpartner.webex.com/collabpartner/onstage/g.php?PRID=65fd67c8ba3d603fc53c57fc5be661ab  \n"
         
     elif codigo==30:
         func="Vou pedir para um atendente conversar com você. Aguarde ser chamado aqui no Webex Teams.  \n"

@@ -2,27 +2,12 @@
     "opcoes": [
         {
             "admin": false,
-            "desc": "Exibe informações sobre a página do Evento Partner Forum",
+            "desc": "Informações sobre agenda e inscrições: Confira a programação completa: https://www.cisco.com/c/pt_br/training-events/connect.html",
             "option": 10,
             "req": false,
             "tag": "site do evento",
             "title": "Site do evento"
-        },
-        {
-            "admin": false,
-            "desc": "Informa contatos do Distribuidor IngramMicro",
-            "option": 20,
-            "req": false,
-            "tag": "informa distribuidor Ingram",
-            "title": "Informação sobre Distribuidor INGRAM MICRO"
-        },
-        {
-            "admin": false,
-            "desc": "Pede ajuda para um atendente virtual do evento",
-            "option": 30,
-            "req": false,
-            "tag": "falar pessoa alguém partner forum",
-            "title": "Falar com uma pessoa da equipe de apoio ao Partner Forum"
-        }
+	
+		}
     ]
 }

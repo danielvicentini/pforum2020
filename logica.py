@@ -172,11 +172,11 @@ def opcoes_para_user(usermail):
                 msg=msg+f"{b['desc']}  \n"
                 z=z+1
 
-        if bot_language=="BR":
-            msg=msg+"  \nDigite algumas palavras para começarmos ou digite ***menucard*** para o modo card.  \n"
+        #if bot_language=="BR":
+            #msg=msg+"  \nDigite algumas palavras para começarmos ou digite ***menucard*** para o modo card.  \n"
             
-        else:         
-            msg=msg+"  \nType keywords so we can start our chat or type ***menucard*** for card mode.  \n"
+        #else:         
+            #msg=msg+"  \nType keywords so we can start our chat or type ***menucard*** for card mode.  \n"
     except:
 
         if bot_language=="BR":
@@ -408,10 +408,10 @@ def logica(comando,usermail,salaid):
         if msg=="":
             if bot_language=="BR":
                 msg="Olá. Digite ***ajuda*** para ver as opçoes disponíveis.  \nVou tentar adivinhar também o que você está procurando :-)  \n"
-                msg=msg+"Novo: Digite ***menucard*** para ver no formato de card.  \n"
+                #msg=msg+"Novo: Digite ***menucard*** para ver no formato de card.  \n"
             else:
                 msg="Hello. Type ***help*** to see available options.  \nI'll try to guess what you are looking for :-)  \n"
-                msg=msg+"New: Type ***menucard*** to see in card mode.  \n"
+                #msg=msg+"New: Type ***menucard*** to see in card mode.  \n"
 
    # Part 3
    # Robot expects information from user
