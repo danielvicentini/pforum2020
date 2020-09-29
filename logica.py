@@ -407,7 +407,7 @@ def logica(comando,usermail,salaid):
 
         if msg=="":
             if bot_language=="BR":
-                msg="Olá. Digite ***ajuda*** para ver as opçoes disponíveis.  \nVou tentar adivinhar também o que você está procurando :-)  \n"
+                msg="Olá. Bem vindo ao Partner Fórum 2020.  \nDigite ***ajuda*** para ver as opçoes disponíveis.  \nVou tentar adivinhar também o que você está procurando :-)  \n"
                 #msg=msg+"Novo: Digite ***menucard*** para ver no formato de card.  \n"
             else:
                 msg="Hello. Type ***help*** to see available options.  \nI'll try to guess what you are looking for :-)  \n"
@@ -433,7 +433,7 @@ def logica(comando,usermail,salaid):
             msg_ready="Estou pronto para executar seu comando.  \n"
             msg_comma="Digite os parametros separados por virgulas. Você pode reiniciar digitando ***reinicie*** ou ***não***.  \n"
             msg_restart = "Ok, vou reiniciar nossa conversa.  \nDigite ***ajuda*** se quiser saber mais o que posso fazer."
-            msg_ok="  \nEspero ter atendido sua expectativa.  \n"
+            msg_ok="  \nEspero ter atendido sua expectativa. Aproveite o Partner Fórum 2020!  \n"
             msg_empty="Não consegui executar devido a um erro na minha programação.  \n"
             
    

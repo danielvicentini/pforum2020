@@ -7,7 +7,27 @@
             "req": false,
             "tag": "site do evento",
             "title": "Site do evento"
-	
+		},{
+			"admin": false,
+            "desc": "Informações para acessar o primeiro dia do Partner Forum",
+            "option": 20,
+            "req": false,
+            "tag": "acesso primeiro dia",
+            "title": "Acesso ao primeiro dia"
+		},{
+			"admin": false,
+            "desc": "Informações para acessar o segundo dia do Partner Forum",
+            "option": 30,
+            "req": false,
+            "tag": "acesso breakouts segundo dia",
+            "title": "Acesso às Breakouts do segundo dia"
+		},{	
+			"admin": false,
+            "desc": "Informações sobre gravação e conteúdos do Partner Forum",
+            "option": 40,
+            "req": false,
+            "tag": "acesso gravação conteúdo",
+            "title": "Acesso a gravação e conteúdo"
 		}
     ]
 }
