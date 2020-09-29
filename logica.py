@@ -433,7 +433,7 @@ def logica(comando,usermail,salaid):
             msg_ready="Estou pronto para executar seu comando.  \n"
             msg_comma="Digite os parametros separados por virgulas. Você pode reiniciar digitando ***reinicie*** ou ***não***.  \n"
             msg_restart = "Ok, vou reiniciar nossa conversa.  \nDigite ***ajuda*** se quiser saber mais o que posso fazer."
-            msg_ok="  \nEspero ter atendido sua expectativa. Aproveite o Partner Fórum 2020!  \n"
+            msg_ok="  \nEspero ter atendido sua expectativa. Aproveite o Partner Forum 2020!  \n"
             msg_empty="Não consegui executar devido a um erro na minha programação.  \n"
             
    
