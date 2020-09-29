@@ -50,7 +50,7 @@ def executa(usermail, codigo, lista_parametros):
 
     elif codigo==40:
         # gravação
-        func="As sessões serão gravadas e disponibilizadas na nossa plataforma Cisco Sales Connect.  \nTodos os participantes receberão o link para as grações e as apresentações.  \n"
+        func="As sessões serão gravadas e disponibilizadas na nossa plataforma Cisco Sales Connect.  \nTodos os participantes receberão o link para as gravações e as apresentações.  \n"
 
     #elif codigo==30:
     #    func="Vou pedir para um atendente conversar com você. Aguarde ser chamado aqui no Webex Teams.  \n"
