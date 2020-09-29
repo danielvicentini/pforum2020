@@ -397,7 +397,7 @@ def logica(comando,usermail,salaid):
                     memoria[usermail]['params']=False
 
                 if bot_language=="BR":
-                    msg=f"Você quiz dizer: {optparam(opescolhido,'title')} ?  \n"
+                    msg=f"Você quis dizer: {optparam(opescolhido,'title')} ?  \n"
                 else:
                     msg=f"Do you mean: {optparam(opescolhido,'title')} ?  \n"
 
